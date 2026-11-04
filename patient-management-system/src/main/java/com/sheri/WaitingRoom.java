@@ -1,13 +1,5 @@
 package com.sheri;
 
-
-//Node = [ patient | next ]
-//`patient` is the node’s *value.
-//`next` is the node’s pointer to another node.
-//`head` and `tail` are pointers outside the node, pointing at particular nodes.
-//`tail.next` is the `next` pointer inside the node that `tail` points to.
-//`newNode` = reference to the newly created node (reference var)
-
 //Made own node class for practice
 
 
